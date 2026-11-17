@@ -147,3 +147,7 @@ Add the connection details from your UniteLabs workspace to `config.json`, then 
   still completes, but about 60–70 s later than usual.
 - **No security on the local network.** By default the server accepts connections from the local network without
   encryption. Before using it on a shared network, enable TLS or limit `hostname` to `127.0.0.1`.
+
+## License
+
+MIT License. Copyright (c) 2026 RIKEN. See [LICENSE](LICENSE).
